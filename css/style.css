@@ -43,3 +43,10 @@ header {
     ;
     font-family: "Nerko One", cursive;
 }
+/* cover img */
+.cover_img{
+    height: 640px;
+    width: 1440px;
+    margin: auto;
+    display: block;
+}
