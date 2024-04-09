@@ -100,9 +100,6 @@ header {
     margin-bottom: 45px;
     font-family: "Poppins", sans-serif;
     font-style: italic;
-    font-family: Poppins;
-    font-size: 18px;
-    font-style: italic;
     font-weight: 400;
     line-height: 27px;
     letter-spacing: 0.005em;
@@ -130,8 +127,8 @@ button {
     width: 780px;
     height: 452px;
     display: block;
-    /* background-color: red; */
     margin: auto;
+    margin-bottom: 180px;
 
 }
 
@@ -155,4 +152,61 @@ button {
     text-align: justify;
     margin-top: 80px;
     color: #337C81;
+}
+
+/* footer */
+footer {
+    width: 1440px;
+    background-color: #2A9D8F;
+    display: block;
+    margin: auto;
+    padding: 88px 130px;
+}
+
+.footer_logo {
+    display: inline-block;
+
+
+
+}
+
+
+.footer_nav {
+    display: inline-block;
+    margin-left: 900px;
+    vertical-align: top;
+}
+
+
+.footer_ul {}
+
+.li_1,
+.li_2 {
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+
+.li_1 {
+
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+
+}
+
+.li_2 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+
+}
+
+.support_li {
+    margin-bottom: 20px;
+}
+
+.midle_line {
+    margin: 8px 0;
 }
